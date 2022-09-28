@@ -1,0 +1,13 @@
+data
+logs/*.log
+genesis/para-*
+.idea
+logs/para/*.log
+logs/relay/*.log
+bin/polkadot-parachain
+bin/darwinia-parachain
+bin/polkadot
+genesis/statemint-genesis
+genesis/statemint-wasm
+genesis/pangolin-parachain-genesis
+genesis/pangolin-parachain-wasm
